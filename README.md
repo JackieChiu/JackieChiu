@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JackieChiu
+- 👀 I’m interested in Photography & Animation.
+- 🌱 I’m currently learning in the Astrophysics field, especially in galaxies.
+- 💞️ I’m looking to collaborate on Python code about analyse the properties of galaxies.
